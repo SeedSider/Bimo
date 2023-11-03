@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "94453272040",
+    "project_id": "init-test-astray",
+    "storage_bucket": "init-test-astray.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94453272040:android:a5ca7b5dc99560b922a85d",
+        "android_client_info": {
+          "package_name": "com.kentang.testnotif.astray"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcyfeg8efOc0sqgHH4a7P3kFtjMuhQp-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
